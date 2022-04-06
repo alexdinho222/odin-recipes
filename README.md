@@ -1,1 +1,3 @@
 # odin-recipes
+
+Welcome to my first project completed during my time going through the Odin Project's 'Foundations' course. In this project, I have been tasked with building a basic recipe website. I have very minimal experience with HTML at the moment as well as a very rudimentary understanding of CSS. I have heard a great deal about how one should learn to code by doing projects so I am excited to finally be diving into one!
